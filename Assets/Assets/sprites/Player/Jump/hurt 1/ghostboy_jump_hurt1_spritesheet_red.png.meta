@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: c3e74cedd72dfdd4eb5b3e7243852dc1
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ghostboy_jump_hurt1_spritesheet_red_0
+    21300002: ghostboy_jump_hurt1_spritesheet_red_1
+    21300004: ghostboy_jump_hurt1_spritesheet_red_2
+    21300006: ghostboy_jump_hurt1_spritesheet_red_3
+    21300008: ghostboy_jump_hurt1_spritesheet_red_4
+    21300010: ghostboy_jump_hurt1_spritesheet_red_5
+    21300012: ghostboy_jump_hurt1_spritesheet_red_6
+    21300014: ghostboy_jump_hurt1_spritesheet_red_7
+    21300016: ghostboy_jump_hurt1_spritesheet_red_8
+    21300018: ghostboy_jump_hurt1_spritesheet_red_9
+    21300020: ghostboy_jump_hurt1_spritesheet_red_10
+    21300022: ghostboy_jump_hurt1_spritesheet_red_11
+    21300024: ghostboy_jump_hurt1_spritesheet_red_12
+    21300026: ghostboy_jump_hurt1_spritesheet_red_13
+    21300028: ghostboy_jump_hurt1_spritesheet_red_14
+    21300030: ghostboy_jump_hurt1_spritesheet_red_15
+    21300032: ghostboy_jump_hurt1_spritesheet_red_16
+    21300034: ghostboy_jump_hurt1_spritesheet_red_17
+    21300036: ghostboy_jump_hurt1_spritesheet_red_18
+    21300038: ghostboy_jump_hurt1_spritesheet_red_19
+    21300040: ghostboy_jump_hurt1_spritesheet_red_20
+    21300042: ghostboy_jump_hurt1_spritesheet_red_21
+    21300044: ghostboy_jump_hurt1_spritesheet_red_22
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ghostboy_jump_hurt1_spritesheet_red_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8505.334
+        width: 2574
+        height: 4252.6665
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f3177e617b1a04e94088b07040aa60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_jump_hurt1_spritesheet_red_1
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 8505.334
+        width: 2574
+        height: 4252.6665
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b22bc5c4a6e624a9f4c293d5d6a23e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_jump_hurt1_spritesheet_red_2
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 8505.334
+        width: 2574
+        height: 4252.6665
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59700ffa7088dce4d826130f8c5d49fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_jump_hurt1_spritesheet_red_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4253.3335
+        width: 2574
+        height: 4252.6665
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad05c5aa5db9e964f8189343f3221f5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_jump_hurt1_spritesheet_red_4
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 4253.3335
+        width: 2574
+        height: 4252.6665
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c67f2c2e5ace46469d03c3de20eeee6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_jump_hurt1_spritesheet_red_5
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 4253.3335
+        width: 2574
+        height: 4252.6665
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9155020a5136a418b0c36a71dbd88e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_jump_hurt1_spritesheet_red_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3334961
+        width: 2574
+        height: 4252.6665
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba3276fd71730d4ab8b78d5b81940a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_jump_hurt1_spritesheet_red_7
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1.3334961
+        width: 2574
+        height: 4252.6665
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae883fd54a47f4d4e96ce601cfb7a207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_jump_hurt1_spritesheet_red_8
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 1.3334961
+        width: 2574
+        height: 4252.6665
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9894f9b37fdd8646ab2599cdc8b266e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9ec33824a4854224c8bc4bc38f712b24
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

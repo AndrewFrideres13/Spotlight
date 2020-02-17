@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 9c3cba5fb348e9647b217cdd4510ad9c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ghostboy_walk_hurt1_spritesheet_orange_0
+    21300002: ghostboy_walk_hurt1_spritesheet_orange_1
+    21300004: ghostboy_walk_hurt1_spritesheet_orange_2
+    21300006: ghostboy_walk_hurt1_spritesheet_orange_3
+    21300008: ghostboy_walk_hurt1_spritesheet_orange_4
+    21300010: ghostboy_walk_hurt1_spritesheet_orange_5
+    21300012: ghostboy_walk_hurt1_spritesheet_orange_6
+    21300014: ghostboy_walk_hurt1_spritesheet_orange_7
+    21300016: ghostboy_walk_hurt1_spritesheet_orange_8
+    21300018: ghostboy_walk_hurt1_spritesheet_orange_9
+    21300020: ghostboy_walk_hurt1_spritesheet_orange_10
+    21300022: ghostboy_walk_hurt1_spritesheet_orange_11
+    21300024: ghostboy_walk_hurt1_spritesheet_orange_12
+    21300026: ghostboy_walk_hurt1_spritesheet_orange_13
+    21300028: ghostboy_walk_hurt1_spritesheet_orange_14
+    21300030: ghostboy_walk_hurt1_spritesheet_orange_15
+    21300032: ghostboy_walk_hurt1_spritesheet_orange_16
+    21300034: ghostboy_walk_hurt1_spritesheet_orange_17
+    21300036: ghostboy_walk_hurt1_spritesheet_orange_18
+    21300038: ghostboy_walk_hurt1_spritesheet_orange_19
+    21300040: ghostboy_walk_hurt1_spritesheet_orange_20
+    21300042: ghostboy_walk_hurt1_spritesheet_orange_21
+    21300044: ghostboy_walk_hurt1_spritesheet_orange_22
+    21300046: ghostboy_walk_hurt1_spritesheet_orange_23
+    21300048: ghostboy_walk_hurt1_spritesheet_orange_24
+    21300050: ghostboy_walk_hurt1_spritesheet_orange_25
+    21300052: ghostboy_walk_hurt1_spritesheet_orange_26
+    21300054: ghostboy_walk_hurt1_spritesheet_orange_27
+    21300056: ghostboy_walk_hurt1_spritesheet_orange_28
+    21300058: ghostboy_walk_hurt1_spritesheet_orange_29
+    21300060: ghostboy_walk_hurt1_spritesheet_orange_30
+    21300062: ghostboy_walk_hurt1_spritesheet_orange_31
+    21300064: ghostboy_walk_hurt1_spritesheet_orange_32
+    21300066: ghostboy_walk_hurt1_spritesheet_orange_33
+    21300068: ghostboy_walk_hurt1_spritesheet_orange_34
+    21300070: ghostboy_walk_hurt1_spritesheet_orange_35
+    21300072: ghostboy_walk_hurt1_spritesheet_orange_36
+    21300074: ghostboy_walk_hurt1_spritesheet_orange_37
+    21300076: ghostboy_walk_hurt1_spritesheet_orange_38
+    21300078: ghostboy_walk_hurt1_spritesheet_orange_39
+    21300080: ghostboy_walk_hurt1_spritesheet_orange_40
+    21300082: ghostboy_walk_hurt1_spritesheet_orange_41
+    21300084: ghostboy_walk_hurt1_spritesheet_orange_42
+    21300086: ghostboy_walk_hurt1_spritesheet_orange_43
+    21300088: ghostboy_walk_hurt1_spritesheet_orange_44
+    21300090: ghostboy_walk_hurt1_spritesheet_orange_45
+    21300092: ghostboy_walk_hurt1_spritesheet_orange_46
+    21300094: ghostboy_walk_hurt1_spritesheet_orange_47
+    21300096: ghostboy_walk_hurt1_spritesheet_orange_48
+    21300098: ghostboy_walk_hurt1_spritesheet_orange_49
+    21300100: ghostboy_walk_hurt1_spritesheet_orange_50
+    21300102: ghostboy_walk_hurt1_spritesheet_orange_51
+    21300104: ghostboy_walk_hurt1_spritesheet_orange_52
+    21300106: ghostboy_walk_hurt1_spritesheet_orange_53
+    21300108: ghostboy_walk_hurt1_spritesheet_orange_54
+    21300110: ghostboy_walk_hurt1_spritesheet_orange_55
+    21300112: ghostboy_walk_hurt1_spritesheet_orange_56
+    21300114: ghostboy_walk_hurt1_spritesheet_orange_57
+    21300116: ghostboy_walk_hurt1_spritesheet_orange_58
+    21300118: ghostboy_walk_hurt1_spritesheet_orange_59
+    21300120: ghostboy_walk_hurt1_spritesheet_orange_60
+    21300122: ghostboy_walk_hurt1_spritesheet_orange_61
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ghostboy_walk_hurt1_spritesheet_orange_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5100
+        width: 3299
+        height: 5100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e70f53584b107f4993b4e22b87d8baf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_walk_hurt1_spritesheet_orange_1
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 5100
+        width: 3299
+        height: 5100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f2e54c0a28da044a24445deb3471dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_walk_hurt1_spritesheet_orange_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3299
+        height: 5100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad75bb429b5ade949bb5b8a46f0aadf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_walk_hurt1_spritesheet_orange_3
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 0
+        width: 3299
+        height: 5100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac90d29ba1c39f499eba10dff40bb74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: dae592be5da0108468e9e7fd6b63945c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

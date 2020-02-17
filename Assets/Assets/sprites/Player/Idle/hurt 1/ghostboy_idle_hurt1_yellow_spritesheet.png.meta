@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: 03aa6689c07ca034f8761ab7985241f3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ghostboy_idle_hurt1_yellow_spritesheet_0
+    21300002: ghostboy_idle_hurt1_yellow_spritesheet_1
+    21300004: ghostboy_idle_hurt1_yellow_spritesheet_2
+    21300006: ghostboy_idle_hurt1_yellow_spritesheet_3
+    21300008: ghostboy_idle_hurt1_yellow_spritesheet_4
+    21300010: ghostboy_idle_hurt1_yellow_spritesheet_5
+    21300012: ghostboy_idle_hurt1_yellow_spritesheet_6
+    21300014: ghostboy_idle_hurt1_yellow_spritesheet_7
+    21300016: ghostboy_idle_hurt1_yellow_spritesheet_8
+    21300018: ghostboy_idle_hurt1_yellow_spritesheet_9
+    21300020: ghostboy_idle_hurt1_yellow_spritesheet_10
+    21300022: ghostboy_idle_hurt1_yellow_spritesheet_11
+    21300024: ghostboy_idle_hurt1_yellow_spritesheet_12
+    21300026: ghostboy_idle_hurt1_yellow_spritesheet_13
+    21300028: ghostboy_idle_hurt1_yellow_spritesheet_14
+    21300030: ghostboy_idle_hurt1_yellow_spritesheet_15
+    21300032: ghostboy_idle_hurt1_yellow_spritesheet_16
+    21300034: ghostboy_idle_hurt1_yellow_spritesheet_17
+    21300036: ghostboy_idle_hurt1_yellow_spritesheet_18
+    21300038: ghostboy_idle_hurt1_yellow_spritesheet_19
+    21300040: ghostboy_idle_hurt1_yellow_spritesheet_20
+    21300042: ghostboy_idle_hurt1_yellow_spritesheet_21
+    21300044: ghostboy_idle_hurt1_yellow_spritesheet_22
+    21300046: ghostboy_idle_hurt1_yellow_spritesheet_23
+    21300048: ghostboy_idle_hurt1_yellow_spritesheet_24
+    21300050: ghostboy_idle_hurt1_yellow_spritesheet_25
+    21300052: ghostboy_idle_hurt1_yellow_spritesheet_26
+    21300054: ghostboy_idle_hurt1_yellow_spritesheet_27
+    21300056: ghostboy_idle_hurt1_yellow_spritesheet_28
+    21300058: ghostboy_idle_hurt1_yellow_spritesheet_29
+    21300060: ghostboy_idle_hurt1_yellow_spritesheet_30
+    21300062: ghostboy_idle_hurt1_yellow_spritesheet_31
+    21300064: ghostboy_idle_hurt1_yellow_spritesheet_32
+    21300066: ghostboy_idle_hurt1_yellow_spritesheet_33
+    21300068: ghostboy_idle_hurt1_yellow_spritesheet_34
+    21300070: ghostboy_idle_hurt1_yellow_spritesheet_35
+    21300072: ghostboy_idle_hurt1_yellow_spritesheet_36
+    21300074: ghostboy_idle_hurt1_yellow_spritesheet_37
+    21300076: ghostboy_idle_hurt1_yellow_spritesheet_38
+    21300078: ghostboy_idle_hurt1_yellow_spritesheet_39
+    21300080: ghostboy_idle_hurt1_yellow_spritesheet_40
+    21300082: ghostboy_idle_hurt1_yellow_spritesheet_41
+    21300084: ghostboy_idle_hurt1_yellow_spritesheet_42
+    21300086: ghostboy_idle_hurt1_yellow_spritesheet_43
+    21300088: ghostboy_idle_hurt1_yellow_spritesheet_44
+    21300090: ghostboy_idle_hurt1_yellow_spritesheet_45
+    21300092: ghostboy_idle_hurt1_yellow_spritesheet_46
+    21300094: ghostboy_idle_hurt1_yellow_spritesheet_47
+    21300096: ghostboy_idle_hurt1_yellow_spritesheet_48
+    21300098: ghostboy_idle_hurt1_yellow_spritesheet_49
+    21300100: ghostboy_idle_hurt1_yellow_spritesheet_50
+    21300102: ghostboy_idle_hurt1_yellow_spritesheet_51
+    21300104: ghostboy_idle_hurt1_yellow_spritesheet_52
+    21300106: ghostboy_idle_hurt1_yellow_spritesheet_53
+    21300108: ghostboy_idle_hurt1_yellow_spritesheet_54
+    21300110: ghostboy_idle_hurt1_yellow_spritesheet_55
+    21300112: ghostboy_idle_hurt1_yellow_spritesheet_56
+    21300114: ghostboy_idle_hurt1_yellow_spritesheet_57
+    21300116: ghostboy_idle_hurt1_yellow_spritesheet_58
+    21300118: ghostboy_idle_hurt1_yellow_spritesheet_59
+    21300120: ghostboy_idle_hurt1_yellow_spritesheet_60
+    21300122: ghostboy_idle_hurt1_yellow_spritesheet_61
+    21300124: ghostboy_idle_hurt1_yellow_spritesheet_62
+    21300126: ghostboy_idle_hurt1_yellow_spritesheet_63
+    21300128: ghostboy_idle_hurt1_yellow_spritesheet_64
+    21300130: ghostboy_idle_hurt1_yellow_spritesheet_65
+    21300132: ghostboy_idle_hurt1_yellow_spritesheet_66
+    21300134: ghostboy_idle_hurt1_yellow_spritesheet_67
+    21300136: ghostboy_idle_hurt1_yellow_spritesheet_68
+    21300138: ghostboy_idle_hurt1_yellow_spritesheet_69
+    21300140: ghostboy_idle_hurt1_yellow_spritesheet_70
+    21300142: ghostboy_idle_hurt1_yellow_spritesheet_71
+    21300144: ghostboy_idle_hurt1_yellow_spritesheet_72
+    21300146: ghostboy_idle_hurt1_yellow_spritesheet_73
+    21300148: ghostboy_idle_hurt1_yellow_spritesheet_74
+    21300150: ghostboy_idle_hurt1_yellow_spritesheet_75
+    21300152: ghostboy_idle_hurt1_yellow_spritesheet_76
+    21300154: ghostboy_idle_hurt1_yellow_spritesheet_77
+    21300156: ghostboy_idle_hurt1_yellow_spritesheet_78
+    21300158: ghostboy_idle_hurt1_yellow_spritesheet_79
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ghostboy_idle_hurt1_yellow_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4696.5
+        width: 2607
+        height: 4696.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447d8b9a887eeee4faf04c6bc7487a93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_idle_hurt1_yellow_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 4696.5
+        width: 2607
+        height: 4696.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405724c7ce294ed44acb41088546dc33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_idle_hurt1_yellow_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 5214
+        y: 4696.5
+        width: 2607
+        height: 4696.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1231196bfb674c24b9d6c2d56891cbd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_idle_hurt1_yellow_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 7821
+        y: 4696.5
+        width: 2607
+        height: 4696.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe47ec93afff174096193a450baf732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_idle_hurt1_yellow_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.5
+        width: 2607
+        height: 4696.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c2579542c8e6e4287a391fee18c245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_idle_hurt1_yellow_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 0.5
+        width: 2607
+        height: 4696.5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032b52364ee29d042a03c683e7d1df2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 83ba8a39ab209c648944020144269a5c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
