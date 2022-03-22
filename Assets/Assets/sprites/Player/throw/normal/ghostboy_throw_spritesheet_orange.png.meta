@@ -1,0 +1,469 @@
+fileFormatVersion: 2
+guid: 2939e51b983611e429c345c5773e1c1c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ghostboy_throw_spritesheet_orange_0
+    21300002: ghostboy_throw_spritesheet_orange_1
+    21300004: ghostboy_throw_spritesheet_orange_2
+    21300006: ghostboy_throw_spritesheet_orange_3
+    21300008: ghostboy_throw_spritesheet_orange_4
+    21300010: ghostboy_throw_spritesheet_orange_5
+    21300012: ghostboy_throw_spritesheet_orange_6
+    21300014: ghostboy_throw_spritesheet_orange_7
+    21300016: ghostboy_throw_spritesheet_orange_8
+    21300018: ghostboy_throw_spritesheet_orange_9
+    21300020: ghostboy_throw_spritesheet_orange_10
+    21300022: ghostboy_throw_spritesheet_orange_11
+    21300024: ghostboy_throw_spritesheet_orange_12
+    21300026: ghostboy_throw_spritesheet_orange_13
+    21300028: ghostboy_throw_spritesheet_orange_14
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ghostboy_throw_spritesheet_orange_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11628.8
+        width: 2264.3333
+        height: 2907.2
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2993f60242cf78945955b00267e1be83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_throw_spritesheet_orange_1
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 11628.8
+        width: 2264.3333
+        height: 2907.2
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc833f7b900b57499f659634683e297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_throw_spritesheet_orange_2
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 11628.8
+        width: 2264.3333
+        height: 2907.2
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fabefef5a467e408b96f40e700930c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_throw_spritesheet_orange_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8721.8
+        width: 2264.3333
+        height: 2907.2
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe93e91abc70bad42bd4b601dcfbe7b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_throw_spritesheet_orange_4
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 8721.8
+        width: 2264.3333
+        height: 2907.2
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df779ae50795134a8648e3819e625f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_throw_spritesheet_orange_5
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 8721.8
+        width: 2264.3333
+        height: 2907.2
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25140d6e34ea20245871b37d26aaa510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_throw_spritesheet_orange_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5814.8
+        width: 2264.3333
+        height: 2907.2
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e081760b209314595204c42e71ff1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_throw_spritesheet_orange_7
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 5814.8
+        width: 2264.3333
+        height: 2907.2
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34128ea82d591f34182cf565a030e17f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_throw_spritesheet_orange_8
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 5814.8
+        width: 2264.3333
+        height: 2907.2
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dcb87b7706fde48bd3ba9c299d2b37
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_throw_spritesheet_orange_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2907.8
+        width: 2264.3333
+        height: 2907.2
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657752a46aa323a45b79f63229a3e44b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_throw_spritesheet_orange_10
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 2907.8
+        width: 2264.3333
+        height: 2907.2
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cff8b93e73fad249b14933b94e3850e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_throw_spritesheet_orange_11
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 2907.8
+        width: 2264.3333
+        height: 2907.2
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b110bea98ae0d3f42ba176ef60266e0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_throw_spritesheet_orange_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.8000488
+        width: 2264.3333
+        height: 2907.2
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b895dabc0584e49831d78c4c104bfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_throw_spritesheet_orange_13
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 0.8000488
+        width: 2264.3333
+        height: 2907.2
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9496356052be1184d9dc0c6a264866c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_throw_spritesheet_orange_14
+      rect:
+        serializedVersion: 2
+        x: 4528
+        y: 0.8000488
+        width: 2264.3333
+        height: 2907.2
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f0d4d4783fe2e478f5ed0c011212d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6fb661786044c474e8bac87db812bb79
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 71c573bf50c1fd144843eba0c11354a8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ghostboy_jump_spritesheet_green_0
+    21300002: ghostboy_jump_spritesheet_green_1
+    21300004: ghostboy_jump_spritesheet_green_2
+    21300006: ghostboy_jump_spritesheet_green_3
+    21300008: ghostboy_jump_spritesheet_green_4
+    21300010: ghostboy_jump_spritesheet_green_5
+    21300012: ghostboy_jump_spritesheet_green_6
+    21300014: ghostboy_jump_spritesheet_green_7
+    21300016: ghostboy_jump_spritesheet_green_8
+    21300018: ghostboy_jump_spritesheet_green_9
+    21300020: ghostboy_jump_spritesheet_green_10
+    21300022: ghostboy_jump_spritesheet_green_11
+    21300024: ghostboy_jump_spritesheet_green_12
+    21300026: ghostboy_jump_spritesheet_green_13
+    21300028: ghostboy_jump_spritesheet_green_14
+    21300030: ghostboy_jump_spritesheet_green_15
+    21300032: ghostboy_jump_spritesheet_green_16
+    21300034: ghostboy_jump_spritesheet_green_17
+    21300036: ghostboy_jump_spritesheet_green_18
+    21300038: ghostboy_jump_spritesheet_green_19
+    21300040: ghostboy_jump_spritesheet_green_20
+    21300042: ghostboy_jump_spritesheet_green_21
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ghostboy_jump_spritesheet_green_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8505.334
+        width: 2574
+        height: 4252.6665
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef26c9feb3166864cb88a12ccf80c4c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_jump_spritesheet_green_1
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 8505.334
+        width: 2574
+        height: 4252.6665
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0481ef67fdd7d7488ac83581dc6ede0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_jump_spritesheet_green_2
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 8505.334
+        width: 2574
+        height: 4252.6665
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a15a6e186c1424598d6b977e8a55cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_jump_spritesheet_green_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4253.3335
+        width: 2574
+        height: 4252.6665
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906564000e199f942b9a4e8b8314cb1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_jump_spritesheet_green_4
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 4253.3335
+        width: 2574
+        height: 4252.6665
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d002b29bae017cd4ab7fefd62128088b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_jump_spritesheet_green_5
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 4253.3335
+        width: 2574
+        height: 4252.6665
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedc0affc1de56c4bb590a4beaac6f15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_jump_spritesheet_green_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3334961
+        width: 2574
+        height: 4252.6665
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b266b07b111874d86f63e9c2087e87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_jump_spritesheet_green_7
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1.3334961
+        width: 2574
+        height: 4252.6665
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603e014daeac29b4cb9759c1395b5de1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostboy_jump_spritesheet_green_8
+      rect:
+        serializedVersion: 2
+        x: 5148
+        y: 1.3334961
+        width: 2574
+        height: 4252.6665
+      alignment: 9
+      pivot: {x: 0.5, y: -0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038a83f3b1824744fb871df67def1515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 98acecbe5fab4c0409a0360b214bd00c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
